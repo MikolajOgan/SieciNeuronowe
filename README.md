@@ -1,3 +1,3 @@
-# SieciNeuronowe
+# Sieci Neuronowe
 
-Rozpoznawanie kotów i psów na zdjęciach z pomocą biblioteki Keras
+Rozpoznawanie kotów i psów na zdjęciach z pomocą biblioteki Keras.
